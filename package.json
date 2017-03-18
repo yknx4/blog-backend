@@ -1,0 +1,16 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ale Figueroa",
+    "email": "me@ale.world"
+  },
+  "description": "Ale World blog backend",
+  "dependencies": {
+    "allcountjs": "^1.14.5"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/allcountjs --app app-config"
+  },
+  "allcountjsTemplate": "my-first-mean-app"
+}
